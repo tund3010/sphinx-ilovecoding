@@ -60,5 +60,4 @@ Achieving the AWS Certified Solutions Architect – Associate (SAA-C03) certific
 
 .. toctree::
 
-   AWS-SAA-C03 <self>
    udemy
