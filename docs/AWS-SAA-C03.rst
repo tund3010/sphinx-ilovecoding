@@ -1,17 +1,35 @@
 AWS-SAA-C03
 ===================================
 
-The AWS Certified Solutions Architect – Associate (SAA-C03) certification is designed to validate your ability to design distributed systems and applications on AWS. It is a widely recognized certification that demonstrates your knowledge of AWS services, architecture best practices, and the ability to implement solutions to meet specific business needs.
+# Overview
 
-Overview of SAA-C03
-Certification Name: AWS Certified Solutions Architect – Associate
-Exam Code: SAA-C03
-Duration: 130 minutes
-Format: Multiple-choice and multiple-response questions
-Cost: USD $150
-Languages: Available in English, Japanese, Korean, and Simplified Chinese
-Key Areas of Focus
-The exam tests your understanding in several key domains:
+**Certification Name**: AWS Certified Solutions Architect – Associate
+**Exam Code**: SAA-C03
+**Duration**: 130 minutes
+**Format**: Multiple-choice and multiple-response questions
+**Cost**: USD $150
+**Languages**: Available in English, Japanese, Korean, and Simplified Chinese
+**Testing options**: Pearson VUE testing center or online proctored exam
+
+# `https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf<Exam Guide>`_
+
+* Introduction
+
+The AWS Certified Solutions Architect - Associate (SAA-C03) exam is intended for individuals who perform a solutions architect role. The exam validates a candidate’s ability to design solutions based on the AWS Well-Architected Framework.
+
+The exam also validates a candidate’s ability to complete the following tasks:
+• Design solutions that incorporate AWS services to meet current business
+requirements and future projected needs
+• Design architectures that are secure, resilient, high-performing, and costoptimized
+• Review existing solutions and determine improvements
+
+* Exam content
+
+= Response types
+
+= Unscored content
+
+
 
 Design Resilient Architectures (30%):
 
