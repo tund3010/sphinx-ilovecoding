@@ -1,8 +1,5 @@
-Udemy course
+Udemy Course
 ===================================
-
-Contents
---------
 
 .. toctree::
 

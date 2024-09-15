@@ -1,4 +1,4 @@
-Welcome to AWS-SAA-C03's documentation!
+AWS-SAA-C03
 ===================================
 
 The AWS Certified Solutions Architect – Associate (SAA-C03) certification is designed to validate your ability to design distributed systems and applications on AWS. It is a widely recognized certification that demonstrates your knowledge of AWS services, architecture best practices, and the ability to implement solutions to meet specific business needs.
@@ -57,9 +57,6 @@ ID Verification: You will need to provide valid ID and may be subject to a secur
 Format: The exam is delivered via Pearson VUE or PSI testing centers, or through online proctoring.
 Results: You receive a preliminary pass/fail result immediately after completing the exam.
 Achieving the AWS Certified Solutions Architect – Associate (SAA-C03) certification can significantly enhance your credibility and career prospects in cloud computing and architecture.
-
-Contents
---------
 
 .. toctree::
 
