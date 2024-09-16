@@ -4,19 +4,13 @@ AWS-SAA-C03
 Overview
 ------------------------------------------------------------------------
 
-**Certification Name**: AWS Certified Solutions Architect – Associate
-
-**Exam Code**: SAA-C03
-
-**Duration**: 130 minutes
-
-**Format**: Multiple-choice and multiple-response questions
-
-**Cost**: USD $150
-
-**Languages**: Available in English, Japanese, Korean, and Simplified Chinese
-
-**Testing options**: Pearson VUE testing center or online proctored exam
+• **Certification Name**: AWS Certified Solutions Architect – Associate
+• **Exam Code**: SAA-C03
+• **Duration**: 130 minutes
+• **Format**: Multiple-choice and multiple-response questions
+• **Cost**: USD $150
+• **Languages**: Available in English, Japanese, Korean, and Simplified Chinese
+• **Testing options**: Pearson VUE testing center or online proctored exam
 
 `Exam Guide <https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf>`_
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -87,6 +81,32 @@ Domain 3: Design High-Performing Architectures
 Domain 4: Design Cost-Optimized Architectures 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-.. toctree::
+Courses
+------------------------------------------------------------------------
 
-   udemy
+Udemy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+IAM
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+Users, Groups, Policies
+******************************************************************************************************
+
+MFA, CLI, Access Keys, SDK
+******************************************************************************************************
+
+Roles
+******************************************************************************************************
+
+IAM Best Practices
+******************************************************************************************************
+
+EC2
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+Budget Setup
+******************************************************************************************************
+
+EC2 Basics
+******************************************************************************************************
