@@ -23,4 +23,4 @@ Contents
    Home <self>
    usage
    api
-   AWS-SAA-C03
+   aws-saa-c03/AWS-SAA-C03
