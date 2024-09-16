@@ -1,4 +1,4 @@
 
-.. include:: iam.rst
+.. include:: ./iam.rst
 
-.. include:: ec2.rst
+.. include:: ./ec2.rst

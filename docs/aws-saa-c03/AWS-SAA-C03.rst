@@ -84,5 +84,5 @@ Domain 4: Design Cost-Optimized Architectures
 Udemy Course
 ------------------------------------------------------------------------
 
-.. include:: udemy-course/udemy-course.rst
+.. include:: ./udemy-course/udemy-course.rst
 
