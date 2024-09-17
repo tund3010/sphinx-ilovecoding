@@ -85,5 +85,5 @@ Udemy Course
 ------------------------------------------------------------------------
 
 .. toctree::
-    udemy-course/ec2
     udemy-course/iam
+    udemy-course/ec2
