@@ -84,5 +84,5 @@ Domain 4: Design Cost-Optimized Architectures
 Udemy Course
 ------------------------------------------------------------------------
 
-.. include:: ./udemy-course/udemy-course.rst
+.. include:: /docs/aws-saa-c03/udemy-course/udemy-course.rst
 
