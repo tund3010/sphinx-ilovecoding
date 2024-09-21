@@ -106,4 +106,4 @@ Alternative for Kinesis
 Big Data Ingestion Pipeline
 ------------------------------------------------------------------------
 
-.. image:: big-data-ingestion-pipeline.png
+.. image:: images/big-data-ingestion-pipeline.png
